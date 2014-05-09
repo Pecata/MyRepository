@@ -1,0 +1,11 @@
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\bin\Debug\ClearSlideConsole.exe.config
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\bin\Debug\ClearSlideConsole.exe
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\bin\Debug\ClearSlideConsole.pdb
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\obj\Debug\ClearSlideConsole.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\obj\Debug\ClearSlideConsole.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\obj\Debug\ClearSlideConsole.Program.resources
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\obj\Debug\ClearSlideConsole.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\obj\Debug\ClearSlideConsole.exe
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\obj\Debug\ClearSlideConsole.pdb
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\bin\Debug\T.dll
+\\vmware-host\Shared Folders\Desktop\ProjectPPTX2HTML\ClearSlideConsole\bin\Debug\T.pdb

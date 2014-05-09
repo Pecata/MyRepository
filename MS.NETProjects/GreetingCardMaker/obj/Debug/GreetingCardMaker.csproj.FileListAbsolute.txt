@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\Desktop\BookC#\CurrencyConverter\GreetingCardMaker\bin\GreetingCardMaker.dll
+\\vmware-host\Shared Folders\Desktop\BookC#\CurrencyConverter\GreetingCardMaker\bin\GreetingCardMaker.pdb
+\\vmware-host\Shared Folders\Desktop\BookC#\CurrencyConverter\GreetingCardMaker\obj\Debug\GreetingCardMaker.dll
+\\vmware-host\Shared Folders\Desktop\BookC#\CurrencyConverter\GreetingCardMaker\obj\Debug\GreetingCardMaker.pdb
+\\vmware-host\Shared Folders\Desktop\BookC#\CurrencyConverter\GreetingCardMaker\obj\Debug\GreetingCardMaker.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\BookC#\ASP.NET\CurrencyConverter\GreetingCardMaker\bin\GreetingCardMaker.dll
+\\vmware-host\Shared Folders\Desktop\BookC#\ASP.NET\CurrencyConverter\GreetingCardMaker\bin\GreetingCardMaker.pdb
+\\vmware-host\Shared Folders\Desktop\BookC#\ASP.NET\CurrencyConverter\GreetingCardMaker\obj\Debug\GreetingCardMaker.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\BookC#\ASP.NET\CurrencyConverter\GreetingCardMaker\obj\Debug\GreetingCardMaker.dll
+\\vmware-host\Shared Folders\Desktop\BookC#\ASP.NET\CurrencyConverter\GreetingCardMaker\obj\Debug\GreetingCardMaker.pdb
