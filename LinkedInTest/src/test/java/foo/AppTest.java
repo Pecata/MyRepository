@@ -1,4 +1,4 @@
-package com.linkedinsdk.test;
+package foo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

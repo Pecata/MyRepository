@@ -1,4 +1,4 @@
-package com.linkedinsdk.test;
+package linkedinsdk.test;
 
 
 import java.io.BufferedReader;

@@ -1,4 +1,4 @@
-package com.linkedinsdk.test;
+package linkedinsdk.test;
 import java.util.EnumSet;
 import java.util.List;
 import com.google.code.linkedinapi.client.LinkedInApiClient;
