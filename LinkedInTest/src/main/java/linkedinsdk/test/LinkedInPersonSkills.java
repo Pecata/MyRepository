@@ -23,9 +23,12 @@ public class LinkedInPersonSkills {
 		Person profile = client.getProfileForCurrentUser(EnumSet.of(
 				ProfileField.FIRST_NAME, 
 				ProfileField.LAST_NAME, 
-				ProfileField.SKILLS));
+				ProfileField.SKILLS,
+				ProfileField.PICTURE_URL));
 		
 		Skills skills= profile.getSkills();
+		String picURL = profile.getPictureUrl();
+		System.out.println("Picture URL is:"+picURL);
 		List<Skill> skillList= skills.getSkillList();	
 		for(Skill sk: skillList){
 			NameType nt = sk.getSkill();
