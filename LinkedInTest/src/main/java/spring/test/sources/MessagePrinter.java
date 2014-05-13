@@ -3,7 +3,6 @@ package spring.test.sources;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import bsh.This;
 
 @Component
 public class MessagePrinter {

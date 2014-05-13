@@ -22,9 +22,8 @@ public class LinkedInPersonSkills {
 	 private static final String ACC_TOKEN="3f40c383-2cdb-44c1-9dfa-97eee4102b83";
 	 private static final String ACC_TOKEN_SECRET="da6f576a-0021-4641-9165-bd0036c366e0";
 	 public static int BUF_SIZE = 2048;
-	//just testing file.
 	 
-	  private byte[] personPic; 
+	 private byte[] personPic; 
 	  
 	  public static void main(String[] args)throws IOException
 	  {
@@ -57,7 +56,6 @@ public class LinkedInPersonSkills {
 		byte[] buffer = new byte[BUF_SIZE];
 		is.read(buffer);
 		is.close();
-		//this.setPersonPic(buffer);
 		return buffer;
 	}
 
